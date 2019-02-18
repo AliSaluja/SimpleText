@@ -9,6 +9,6 @@ from SimpleText import gui
 
 if __name__ == "__main__":
     app = QApplication(sys.argv)
-    window = gui.CryptoDiary()
+    window = gui.SimpleText()
 
     sys.exit(app.exec_())
