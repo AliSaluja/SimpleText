@@ -5,7 +5,7 @@ import sys
 
 from PyQt5.QtWidgets import QApplication
 
-from CryptoDiary import gui
+from SimpleText import gui
 
 if __name__ == "__main__":
     app = QApplication(sys.argv)
